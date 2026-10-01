@@ -1,0 +1,6 @@
+{
+  "name": "Z.P. Primary School Maharkund",
+  "description": "Official website for Z.P. Primary School Maharkund, featuring academic details, facilities, welfare programs, gallery, and community updates with clean lines and functional navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
